@@ -1,1 +1,4 @@
-- Pending (using now to deploy node)
+Deployment 
+
+heroku create appName
+git push heroku master
